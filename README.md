@@ -4,3 +4,5 @@ pasta
 beans
 turkey
 fish
+oats
+Banana
